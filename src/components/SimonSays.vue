@@ -137,6 +137,7 @@ ul {
 .flex {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
   margin-top: 50px;
 }
 .simon {
